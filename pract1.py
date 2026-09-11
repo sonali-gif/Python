@@ -1,0 +1,5 @@
+name=input("enter your name: ")
+print("good afternoon" ,name)
+date =input("enter date: ")
+print("Dear",name,"!\n you r selected! \n " ,date)
+print(name.find(" "))
