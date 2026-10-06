@@ -18,3 +18,5 @@ print(type(m))#default i/p type is string
 y=int(input("enter marks "))
 print(y)
 print(type(y))
+
+print(2**3)#2power3=8
