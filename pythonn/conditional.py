@@ -12,3 +12,13 @@ if a>b:
     print(a)
 else:
     print(b)
+
+
+#leap year
+year=int(input("enter year: "))
+if year/400==0 and year/100==0:
+    print("leap")
+elif year/4==0:
+    print("leap")
+else:
+    print("nope")
